@@ -25,6 +25,7 @@ a:hover {
 }
 
 body {
+  background-color: #f9f9f9;
   margin: 0;
   display: flex;
   place-items: center;
@@ -51,6 +52,7 @@ h1 {
 }
 
 .Event {
+  border-radius: 5px;
   width: 100px;
 }
 
@@ -68,8 +70,16 @@ h1 {
 }
 
 .green {
-  background: #c9ffbb;
+  background: #b9ff9e;
 } 
+
+.brown{
+  background-color: rgb(252, 219, 175);
+}
+
+.yellow{
+  background-color: #fff6a1;
+}
 
 button {
   border-radius: 8px;
